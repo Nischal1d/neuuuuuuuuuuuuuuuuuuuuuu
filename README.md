@@ -118,7 +118,8 @@
       { name: "Nepal Telecom", value: 1350 },
       { name: "Prabhu Bank", value: 560 },
       { name: "Sanima Bank", value: 700 },
-      { name: "Upper Tamakoshi", value: 420 }
+      { name: "Upper Tamakoshi", value: 420 },
+      { name: "adi pau", value: 10 }
     ];
 
     // === Generate Stock Cards ===
