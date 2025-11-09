@@ -119,7 +119,10 @@
       { name: "Prabhu Bank", value: 560 },
       { name: "Sanima Bank", value: 700 },
       { name: "Upper Tamakoshi", value: 420 },
-      { name: "adi pau", value: 10 }
+      { name: "adi pau", value: 10 },
+      { name: "N N", value: 10000 },
+        { name: "B B", value: 009 }
+      
     ];
 
     // === Generate Stock Cards ===
